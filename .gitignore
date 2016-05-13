@@ -1,13 +1,2 @@
-.DS_Store
-.DS_Store?
-._*
-.Trashes
-/target/
-.cache
-.project
-.settings
-.classpath
-Guardfile
-*.css
-src/main/webapp/assets/styles/fedbid.css
-src/main/webapp/assets/styles/responsive.css
+a/1/11/fedbid.css
+a/1/11/responsive.css
